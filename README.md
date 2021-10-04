@@ -21,7 +21,7 @@ Deployment of website (React) to hosting platform (Firebase) is done automatical
 `.github/workflows` contains the `yml` file for the continuous deployment.
 
 ### Link to Firebase project
-Deployment will be linked to a Firebase project via the `FIREBASE_TOKEN` and `FIREBASE_PROJECT_ID` tokens. These tokens should be retrieved from the Firebase project you want the website to be deployed in and added into the repository via `settings` -> `secrets` tab on Github. 
+Deployment will be linked to a Firebase project via the `FIREBASE_TOKEN` and `FIREBASE_PROJECT_ID` tokens. These tokens should be retrieved from the Firebase project you want the website to be deployed in and added into the repository via `settings` -> `secrets` tab on Github account.
 
 For Clients: Request for these 2 tokens from ByteDance so that you can set-up automatic deployment for your own forked website for your own experimentation (note the website URL as well).
 
